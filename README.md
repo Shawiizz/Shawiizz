@@ -1,6 +1,8 @@
 ### Hey, I'm Shawiiz_z 👋
 
 I'm learning code by myself and at school and I'm sharing some of my projects on GitHub :D
+<br>
+[*My portfolio & about me website*](https://shawiizz.ml)
 
 ### The projects I created/to which I contributed
 
@@ -12,21 +14,24 @@ I'm learning code by myself and at school and I'm sharing some of my projects on
 
 ---
 
-<h3 align="center">The programming languages I'm using</h3>
+<h3 align="center">I'm using & Learning</h3>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,gradle,html,css,js,ts,nodejs,react,mysql,php,py,flutter,electron,c,arduino" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=java,gradle,html,css,js,ts,nodejs,react,mysql,php,py,flutter,dart,electron,c,arduino,postgres&perline=50" />
 </p>
 
-<h3 align="center">Softwares and tools I'm using</h3>
+<h3 align="center">Software and tools</h3>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,jenkins,linux,vscode,idea,figma,cloudflare,androidstudio,pr" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=git,jenkins,linux,vscode,idea,figma,cloudflare,androidstudio,pr,atom,github,githubactions" />
 </p>
 
 ---
 
-<img align="left" alt="Shawiiz_z's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shawiizz&show_icons=true&hide_border=true&theme=radical" />
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<details>
+  <summary>Github Stats ⚡</summary>
+  
+  <img align="left" alt="Shawiiz_z's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shawiizz&show_icons=true&hide_border=true&theme=radical" />
 <img align="right" alt="Shawiiz_z's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shawiizz&show_icons=true&hide_border=true&theme=radical" />
+</details>
