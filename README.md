@@ -29,12 +29,12 @@ I'm learning code by myself and at school and I'm sharing some of my projects on
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-29-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--85%20Thousand%20lines%20of%20code-blue)
 
 
- Last Updated on 11/11/2022 14:30:28 UTC
+ Last Updated on 11/11/2022 18:51:26 UTC
 <!--END_SECTION:waka-->
 
 <details>
