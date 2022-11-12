@@ -27,11 +27,9 @@ I'm learning code by myself and at school and I'm sharing some of my projects on
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%203%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-29-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--107%20Thousand%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -46,7 +44,6 @@ XML                      1 min               ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 12/11/2022 18:47:16 UTC
 <!--END_SECTION:waka-->
 
 <details>
