@@ -31,10 +31,22 @@ I'm learning code by myself and at school and I'm sharing some of my projects on
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-29-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--85%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--107%20Thousand%20lines%20of%20code-blue)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+SCSS                     48 mins             ███████████░░░░░░░░░░░░░░   46.79% 
+TypeScript               37 mins             █████████░░░░░░░░░░░░░░░░   36.83% 
+IDEA_MODULE              9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   9.39% 
+GitIgnore file           3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.47% 
+XML                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.57%
+
+```
 
 
- Last Updated on 11/11/2022 18:51:26 UTC
+ Last Updated on 12/11/2022 18:47:16 UTC
 <!--END_SECTION:waka-->
 
 <details>
