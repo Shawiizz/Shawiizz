@@ -4,7 +4,7 @@ I'm learning code by myself and at school and I'm sharing some of my projects on
 <br>
 [*My portfolio & about me website*](https://shawiizz.ml)
 
-### The projects I created/to which I contributed
+### Some projects I created/to which I contributed
 
 - :star: I'm working on a project called [**Mohist**](https://github.com/MohistMC/Mohist) 
   - This project is a combination of Forge + Bukkit/Spigot/Paper APIs to make Minecraft plugins and mods working together.
