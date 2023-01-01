@@ -27,7 +27,7 @@ I'm learning code by myself and at school and I'm sharing some of my projects on
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-76%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-78%20hrs%2059%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -35,10 +35,9 @@ I'm learning code by myself and at school and I'm sharing some of my projects on
 
 ```text
 💬 Programming Languages: 
-TypeScript               8 hrs 46 mins       ████████████████████████░   97.42% 
-JavaScript               13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.58% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
-SCSS                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+TypeScript               6 hrs 35 mins       ████████████████████████░   96.59% 
+JavaScript               13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.41% 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
 
