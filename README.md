@@ -1,15 +1,14 @@
-### Hey, I'm Shawiiz_z 👋
+<h2 align="center">Hi 👋, I'm Maël, aka Shawiiz_z</h2>
 
-I'm learning code by myself and at school and I'm sharing some of my projects on GitHub :D
-<br>
+I learn code by myself and also at school, and I'm currently focused on full-stack development.    
 [*My portfolio & about me website*](https://shawiizz.ml)
 
-### Some projects I created/to which I contributed
+### Discover some projects I created/to which I contributed
 
+- :fire: I created with a friend a social network app called [**Pluméo**](https://github.com/Shawiizz/Plumeo) (currently private)
 - :star: I'm working on a project called [**Mohist**](https://github.com/MohistMC/Mohist) 
-  - This project is a combination of Forge + Bukkit/Spigot/Paper APIs to make Minecraft plugins and mods working together.
+  - Mohist is a combination of Forge + Bukkit/Spigot/Paper APIs to make Minecraft plugins and mods working together.
 - :zap: I created [**ShaLibUpdate**](https://github.com/Shawiizz/ShaLibUpdate), a java project to update files from a server. 
-- :coffee: See also my [**Mojang auth**](https://github.com/Shawiizz/ShaLibAuth) java library (without Microsoft auth).
 - :comet: And I also made a NodeJS project called **[GitHub Auto Pull](https://github.com/Shawiizz/github-auto-pull)** that automatically syncs your git (online) project to a local folder.
 
 ---
