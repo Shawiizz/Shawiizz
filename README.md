@@ -25,7 +25,7 @@ I learn code by myself and also at school, and I'm currently focused on full-sta
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-337%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-337%20hrs%2043%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
@@ -33,11 +33,11 @@ I learn code by myself and also at school, and I'm currently focused on full-sta
 
 ```text
 💬 Programming Languages: 
-TypeScript               12 hrs 37 mins      █████████████████░░░░░░░░   67.22 % 
-JavaScript               2 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
-JSON                     1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
-HTML                     1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
-Markdown                 32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
+TypeScript               16 hrs 56 mins      ██████████████████░░░░░░░   73.33 % 
+JavaScript               2 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
+JSON                     1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
+HTML                     1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
+Markdown                 32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
 ```
 
 
