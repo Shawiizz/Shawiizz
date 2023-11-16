@@ -7,6 +7,8 @@ I learn code by myself and also at school, and I'm currently focused on full-sta
 
 - :fire: I created with a friend a social network app called [**Pluméo**](https://github.com/Shawiizz/Plumeo) (currently private)
 - :star: I'm working on a project called [**Mohist**](https://github.com/MohistMC/Mohist), a powerful Minecraft server software implementing Bukkit/Spigot/Paper APIs on top of Forge.
+    - I'm also making the new [**website of MohistMC**](https://github.com/MohistMC/Website), made with Next.js.
+- 🌲 I created a [**Node.js project**](https://github.com/Shawiizz/lla-menu-story) that publishes the menu of my high school cafeteria as an Instagram story.
 - :zap: I created [**ShaLibUpdate**](https://github.com/Shawiizz/ShaLibUpdate), a java project to update files from a server. 
 - :comet: I also created a NodeJS project called **[GitHub Auto Pull](https://github.com/Shawiizz/github-auto-pull)** that automatically syncs your git (online) project to a local folder.
 
