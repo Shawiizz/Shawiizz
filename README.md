@@ -29,7 +29,7 @@ I learn code by myself and also at school, and I'm currently focused on full-sta
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-714%20hrs%2037%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.8%20million%20lines%20of%20code-blue)
 
@@ -37,17 +37,17 @@ I learn code by myself and also at school, and I'm currently focused on full-sta
 
 ```text
 💬 Programming Languages: 
-TypeScript               7 hrs 31 mins       ████████████████████░░░░░   80.20 % 
-JavaScript               36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
-PHP                      32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
-Bash                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
-Env File                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
+TypeScript               4 hrs 52 mins       ████████████████░░░░░░░░░   64.21 % 
+Java                     37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+JavaScript               36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
+PHP                      32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
+Bash                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
 
 🔥 Editors: 
-Intellijidea             9 hrs 23 mins       █████████████████████████   100.00 % 
+Intellijidea             7 hrs 35 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    9 hrs 23 mins       █████████████████████████   100.00 % 
+Linux                    7 hrs 35 mins       █████████████████████████   100.00 % 
 ```
 
 
