@@ -27,7 +27,7 @@ I learn code by myself and also at school, and I'm currently focused on full-sta
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-724%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-726%20hrs%2039%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
