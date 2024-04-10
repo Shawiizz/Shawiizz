@@ -27,9 +27,9 @@ I learn code by myself and also at school, and I'm currently focused on full-sta
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-738%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-738%20hrs%2055%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.8%20million%20lines%20of%20code-blue)
 
@@ -37,17 +37,17 @@ I learn code by myself and also at school, and I'm currently focused on full-sta
 
 ```text
 💬 Programming Languages: 
-Java                     3 hrs 2 mins        ██████████████████████░░░   87.70 % 
-XML                      16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
-SQL                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
-GitIgnore file           3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
-Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Java                     4 hrs 45 mins       ███████████████████████░░   90.67 % 
+XML                      17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
+SQL                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
+GitIgnore file           3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+PHP                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
 
 🔥 Editors: 
-Intellijidea             3 hrs 28 mins       █████████████████████████   100.00 % 
+Intellijidea             5 hrs 14 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    3 hrs 28 mins       █████████████████████████   100.00 % 
+Linux                    5 hrs 14 mins       █████████████████████████   100.00 % 
 ```
 
 
