@@ -27,28 +27,9 @@ I learn code by myself and also at school, and I'm currently focused on full-sta
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-740%20hrs%2041%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.8%20million%20lines%20of%20code-blue)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Java                     2 hrs 12 mins       ████████████████████████░   97.26 % 
-PHP                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
-
-🔥 Editors: 
-Intellijidea             2 hrs 16 mins       █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Linux                    2 hrs 16 mins       █████████████████████████   100.00 % 
-```
 
 
 <!--END_SECTION:waka-->
