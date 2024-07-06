@@ -29,7 +29,7 @@ I learn code by myself and also at school, and I'm currently focused on full-sta
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-811%20hrs%2041%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.8%20million%20lines%20of%20code-blue)
 
@@ -37,17 +37,13 @@ I learn code by myself and also at school, and I'm currently focused on full-sta
 
 ```text
 💬 Programming Languages: 
-Java                     4 hrs 20 mins       ███████████████████████░░   93.19 % 
-Kotlin                   8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
-Text                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
-SQL                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
-TypeScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ IDEA            4 hrs 39 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  4 hrs 39 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
