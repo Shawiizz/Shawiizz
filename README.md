@@ -5,7 +5,7 @@ I learn code by myself and also at school, and I'm currently focused on full-sta
 
 ### Discover some projects I created/to which I contributed
 
-- 🏗️ Open-source tool called [devops-framework](https://github.com/Shawiizz/devops-framework) for automated deployment of Docker applications via CI/CD pipelines. 
+- 🏗️ Open-source tool called [dockflow](https://github.com/Shawiizz/dockflow) for automated deployment of Docker applications via CI/CD pipelines. 
 - :fire: I created with a friend a social network app called [**Pluméo**](https://github.com/Shawiizz/Plumeo) (currently private)
 - :star: I'm working on a project called [**Mohist**](https://github.com/MohistMC/Mohist), a powerful Minecraft server software implementing Bukkit/Spigot/Paper APIs on top of Forge.
     - I'm also making the new [**website of MohistMC**](https://github.com/MohistMC/mohistmc-frontend), made with Next.js.
