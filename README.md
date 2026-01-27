@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, I'm Maël, aka Shawiiz_z</h2>
+<h2 align="center">Hi 👋, I'm Maël, aka Shawiizz</h2>
 
 I learn code by myself and also at school, and I'm currently focused on full-stack development.    
 [*My portfolio & about me website*](https://shawiizz.dev)
